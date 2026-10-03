@@ -4,3 +4,9 @@ support.sky.ch
 sky.ch
 user.sky.ch
 sport.sky.ch
+sky.ch
+gateway.prd.sky.ch
+socket.prd.sky.ch
+lma.npaw.com
+ws.batch.com
+firebaseinstallations.googleapis.com
