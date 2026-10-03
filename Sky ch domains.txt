@@ -11,3 +11,7 @@ lma.npaw.com
 ws.batch.com
 firebaseinstallations.googleapis.com
 r.sky.ch
+show.sky.ch
+​store.sky.ch
+​m.widevine.com
+​license.widevine.com
