@@ -10,3 +10,4 @@ socket.prd.sky.ch
 lma.npaw.com
 ws.batch.com
 firebaseinstallations.googleapis.com
+r.sky.ch
