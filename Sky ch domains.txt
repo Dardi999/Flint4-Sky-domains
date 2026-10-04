@@ -18,3 +18,4 @@ support.sky.ch
 user.sky.ch
 ws.batch.com
 www.sky.ch
+clientsocket.prd.sky.ch
