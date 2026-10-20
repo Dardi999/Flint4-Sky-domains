@@ -19,3 +19,8 @@ user.sky.ch
 ws.batch.com
 www.sky.ch
 clientsocket.prd.sky.ch
+salt.ch
+tv.salt.ch
+my.salt.ch
+static.salt.ch
+*.salt.ch
