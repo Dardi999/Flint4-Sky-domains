@@ -24,3 +24,14 @@ tv.salt.ch
 my.salt.ch
 static.salt.ch
 *.salt.ch
+googlevideo.com
+*.googlevideo.com
+youtube.com
+m.youtube.com
+youtubei.googleapis.com
+youtube.googleapis.com
+ytimg.com
+s.ytimg.com
+i.ytimg.com
+yt3.ggpht.com
+
