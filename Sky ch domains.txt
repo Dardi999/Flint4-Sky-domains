@@ -27,5 +27,8 @@ static.salt.ch
 zapi0372.zattoo.com
 thumb.zattic.com
 images.zattic.com
+*.zattoo.com
+*.zattic.com
+*.zahs.tv
 
 
